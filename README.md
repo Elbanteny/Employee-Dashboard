@@ -25,8 +25,8 @@ Employee Master Hub adalah aplikasi manajemen database karyawan modern yang diba
 
 1. **Clone repositori**
     ```bash
-    git clone [https://github.com/username/employee-management.git](https://github.com/username/employee-management.git)
-    cd employee-management
+    git clone https://github.com/Elbanteny/Employee-Dashboard
+    cd Employee-Dashboard
     ```
 2. **Instal Dependensi**
     ```bash
@@ -52,8 +52,8 @@ Employee Master Hub adalah aplikasi manajemen database karyawan modern yang diba
 
 1.  **Clone & Masuk ke Folder**
     ```bash
-    git clone [https://github.com/username/employee-management.git](https://github.com/username/employee-management.git)
-    cd employee-management
+    git clone https://github.com/Elbanteny/Employee-Dashboard
+    cd Employee-Dashboard
     ```
 2.  **Setup Environment**
     ```bash
